@@ -1,6 +1,6 @@
 # FaceUnlock
 
-Used HaarCascades and LBH algorith for face recognition
+Used HaarCascades and LBH algorithm for face recognition
 
 Gathered real time training data
 
